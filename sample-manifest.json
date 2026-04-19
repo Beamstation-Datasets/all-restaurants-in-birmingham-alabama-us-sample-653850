@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8010f7f0-2f39-492b-89c1-75a9c20a5dc8",
+  "export_job_id": "9bb14958-7cfa-4b5d-aea1-09b047c630c6",
   "id_short": 653850,
-  "published_at": "2026-04-14T07:57:43Z",
+  "published_at": "2026-04-19T19:40:03Z",
   "repo_name": "all-restaurants-in-birmingham-alabama-us-sample-653850",
   "sample_asset_name": "beamstation_653850_restaurants-us-al_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/653850/beamstation_653850_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_records": 81,
-  "sample_sha256": "536f0a9fdd3dc1ce07e832ec8671ea8a2dbe8f6b4de1bc36e748a03117c02ebd",
-  "sample_size_bytes": 275679,
-  "total_records": 819
+  "sample_records": 78,
+  "sample_sha256": "f8da5f763eb0019dfceef340d3a6c02615a931fab01f4a324aeec00385207371",
+  "sample_size_bytes": 282001,
+  "total_records": 784
 }
